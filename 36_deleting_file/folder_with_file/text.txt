@@ -1,0 +1,2 @@
+This is just a demo file which will be deleted when the folder_with_file is deleted 
+using the 3rd module of the code in delete_file.py code
